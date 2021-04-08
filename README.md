@@ -16,3 +16,7 @@ Seeders and Migrations are available so it's easy to try out the website. When d
     *	All product images are stored in a folder named after its product type 
     *	Product type images when stored are named in this format: timestamp_productName.ext
 *	Since not specified in the question, all users who registers through the register page in the website will be automatically be registered as ‘member’ role. To add admin user(s), manual insert through SQL queries or from the UserSeeder is required.
+
+# Members
+* Jason Andersen Winfrey
+* Pietter Haizel
