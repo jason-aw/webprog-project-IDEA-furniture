@@ -1,6 +1,6 @@
 # webprog-project-IDEA-furniture
 
-In this project, we are required to build a simple e-commerce website called IDEA Furniture which sells furniture. For backend, we used version Laravel 7.* as our framework. For authentication, we used Laravel’s build in authentication utilizing the laravel/ui package (version 2.4).
+This project is a class assignment of Web Programming. In this project, we are required to build a simple e-commerce website called IDEA Furniture which sells furniture. For backend, we used version Laravel 7.* as our framework. For authentication, we used Laravel’s build in authentication utilizing the laravel/ui package (version 2.4).
 
 Seeders and Migrations are available so it's easy to try out the website. When doing important actions (performing CRUD, checkout, etc) there is a confirmation dialog just in case any misclicks occur, to confirm the user’s actions. Proper feedback is also displayed (success and error messages) after doing certain actions to make sure the user is engaged with the website.
 
